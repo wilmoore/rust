@@ -1,0 +1,23 @@
+{
+  "name": "rust",
+  "description": "opinionated Rust reference",
+  "version": "1.0.0",
+  "author": "Wil Moore III <wil.moore@wilmoore.com>",
+  "bugs": "https://github.com/wilmoore/rust/issues",
+  "homepage": "https://github.com/wilmoore/rust",
+  "keywords": [
+    "examples",
+    "rust",
+    "opinionated",
+    "reference"
+  ],
+  "license": "MIT",
+  "main": "readme.md",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:wilmoore/rust.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
