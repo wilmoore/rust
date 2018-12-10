@@ -41,3 +41,20 @@
 ~$ rm ~/.config/fish/completions/rust* ~/.config/fish/conf.d/rust*
 ~$ rm -rf ~/.cargo ~/.rustup
 ```
+
+###### binaries
+```
+~$ tree ~/.cargo/bin/
+├── cargo
+├── cargo-clippy
+├── cargo-fmt
+├── rls
+├── rust-gdb
+├── rust-lldb
+├── rustc
+├── rustdoc
+├── rustfmt
+└── rustup
+
+0 directories, 10 files
+```
