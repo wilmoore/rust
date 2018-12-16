@@ -1,5 +1,5 @@
 # Rust
-> opinionated Rust reference
+> Rust examples
 
 ## **Table of Contents**
 
