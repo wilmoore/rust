@@ -6,10 +6,12 @@
   "bugs": "https://github.com/wilmoore/rust/issues",
   "homepage": "https://github.com/wilmoore/rust",
   "keywords": [
+    "code-examples",
+    "code-samples",
+    "example-code",
     "examples",
     "rust",
-    "opinionated",
-    "reference"
+    "rust-language"
   ],
   "license": "MIT",
   "main": "readme.md",
