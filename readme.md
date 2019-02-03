@@ -12,7 +12,7 @@
 ```
 ~$ git clone https://github.com/rust-lang/rustup.rs.git $TMPDIR/rustup
 ~$ cd $TMPDIR/rustup
-~$ ./rustup-init.sh --no-modify-path -y
+~$ env RUSTUP_UPDATE_ROOT="https://static.rust-lang.org/rustup" ./rustup-init.sh --no-modify-path -y
 ```
 
 ###### add cargo to `$fish_user_paths`
